@@ -26,6 +26,7 @@ jobs:
           ruby-version: '3.2'
           bundler-cache: true
       - name: Setup Pages
+        id: dpo
         uses: actions/configure-pages@v4
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.dpo.outputs.base_path }}"
