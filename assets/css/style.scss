@@ -1,0 +1,99 @@
+@import "{{ site.theme }}";
+
+// Custom styles for side navigation
+body {
+  display: flex;
+  min-height: 100vh;
+  margin: 0;
+  background: #f5f5f5;
+}
+
+.sidebar {
+  width: 280px;
+  background: #2c3e50;
+  color: white;
+  padding: 2rem;
+  position: fixed;
+  height: 100vh;
+  overflow-y: auto;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+}
+
+.sidebar-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+.sidebar-header h1 {
+  font-size: 1.8rem;
+  margin: 0;
+  color: #fff;
+}
+
+.sidebar-header p {
+  color: #ecf0f1;
+  margin: 0.5rem 0 0;
+  font-size: 0.9rem;
+}
+
+.sidebar-nav {
+  margin-top: 2rem;
+}
+
+.sidebar-nav h2 {
+  color: #3498db;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.sidebar-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-nav li {
+  margin-bottom: 0.8rem;
+}
+
+.sidebar-nav a {
+  color: #ecf0f1;
+  text-decoration: none;
+  display: block;
+  padding: 0.5rem;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+.sidebar-nav a:hover {
+  background: rgba(255,255,255,0.1);
+  color: #3498db;
+  transform: translateX(5px);
+}
+
+.main-content {
+  flex: 1;
+  margin-left: 280px;
+  padding: 2rem;
+  max-width: 800px;
+}
+
+// Responsive design
+@media (max-width: 768px) {
+  body {
+    flex-direction: column;
+  }
+  
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  
+  .main-content {
+    margin-left: 0;
+  }
+} 
