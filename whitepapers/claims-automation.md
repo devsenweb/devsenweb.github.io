@@ -40,4 +40,4 @@ This section examines the role of automation in modernizing insurance claims pro
 - Cost savings
 - Implementation challenges
 
-[Back to Portfolio](../index.md) 
+[Back to Portfolio](../index) 

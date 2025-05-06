@@ -10,18 +10,18 @@ Welcome to my portfolio. I explore AI workflows, engineering leadership, and arc
 ## 📄 Sections
 
 ### AI & Insurance
-- [AI in Insurance](whitepapers/ai-in-insurance.md)
-- [Risk Models](whitepapers/risk-models.md)
-- [Claims Automation](whitepapers/claims-automation.md)
+- [AI in Insurance](whitepapers/ai-in-insurance)
+- [Risk Models](whitepapers/risk-models)
+- [Claims Automation](whitepapers/claims-automation)
 
 ### Engineering Leadership
-- [Team Architecture](leadership/team-architecture.md)
-- [Agile Practices](leadership/agile-practices.md)
-- [Innovation](leadership/innovation.md)
+- [Team Architecture](leadership/team-architecture)
+- [Agile Practices](leadership/agile-practices)
+- [Innovation](leadership/innovation)
 
 ### Diagrams & Visualizations
-- [System Architecture](diagrams/system-architecture.md)
-- [Process Flows](diagrams/process-flows.md)
+- [System Architecture](diagrams/system-architecture)
+- [Process Flows](diagrams/process-flows)
 
 ## 🔗 Connect
 

@@ -40,4 +40,4 @@ This section explores various risk models used in insurance, from traditional st
 - Regulatory compliance
 - Ethical considerations
 
-[Back to Portfolio](../index.md) 
+[Back to Portfolio](../index) 

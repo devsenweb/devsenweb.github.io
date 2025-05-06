@@ -40,4 +40,4 @@ This whitepaper explores the transformative impact of artificial intelligence in
 - Opportunities for innovation
 - Skills and capabilities needed
 
-[Back to Portfolio](../index.md) 
+[Back to Portfolio](../index) 

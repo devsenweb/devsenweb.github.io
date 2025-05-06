@@ -40,4 +40,4 @@ This section explores strategies and practices for fostering innovation in techn
 - Process improvement
 - Customer experience
 
-[Back to Portfolio](../index.md) 
+[Back to Portfolio](../index) 

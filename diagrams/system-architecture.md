@@ -40,4 +40,4 @@ This section contains various system architecture diagrams and documentation for
 - Performance optimization
 - Scalability patterns
 
-[Back to Portfolio](../index.md) 
+[Back to Portfolio](../index) 

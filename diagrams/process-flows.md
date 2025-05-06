@@ -40,4 +40,4 @@ This section contains various process flow diagrams and documentation for insura
 - Quality control
 - Performance metrics
 
-[Back to Portfolio](../index.md) 
+[Back to Portfolio](../index) 

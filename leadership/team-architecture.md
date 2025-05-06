@@ -46,4 +46,4 @@ Effective engineering leadership combines technical expertise with people manage
 - Cloud migration initiatives
 - AI implementation programs
 
-[Back to Portfolio](../index.md) 
+[Back to Portfolio](../index) 
