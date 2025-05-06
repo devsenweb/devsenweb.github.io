@@ -20,6 +20,8 @@ layout: default
 
 <div class="main-content">
   <section id="about">
+    # 👋 Hello, I'm Senthil (devsenweb)
+
     Welcome to my portfolio. I explore AI workflows, engineering leadership, and architecture for the insurance industry.
   </section>
 
