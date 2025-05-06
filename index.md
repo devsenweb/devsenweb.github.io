@@ -16,10 +16,12 @@ title: Senthil's Portfolio
 </ul>
 </div>
 
-# Hello, I'm Senthil 👋
+<div class="banner">
+<h1>Hello, I'm Senthil 👋</h1>
+<p>Welcome to my portfolio. I explore AI workflows, engineering leadership, and architecture for the insurance and ticketing industry.</p>
+</div>
 
-Welcome to my portfolio. I explore AI workflows, engineering leadership, and architecture for the insurance and ticketing industry.
-
+<div class="main-content">
 ## Sections 📄
 
 ### AI & Insurance
@@ -40,5 +42,6 @@ Welcome to my portfolio. I explore AI workflows, engineering leadership, and arc
 - [GitHub](https://github.com/devsenweb)
 - [LinkedIn](https://www.linkedin.com/in/senthilkumar-subbaiya/)
 - [ORCID](https://orcid.org/0009-0002-2768-8303)
+</div>
 
 <!-- Last updated: 2024-05-06 --> 
