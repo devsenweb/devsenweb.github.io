@@ -27,6 +27,6 @@ Welcome to my portfolio. I explore AI workflows, engineering leadership, and arc
 
 - [GitHub](https://github.com/devsenweb)
 - [LinkedIn](https://www.linkedin.com/in/senthilkumar-subbaiya/)
-- [ORCID](https://orcid.org/YOUR-ID)
+- [ORCID](https://orcid.org/0009-0002-2768-8303)
 
 <!-- Last updated: 2024-05-06 --> 
