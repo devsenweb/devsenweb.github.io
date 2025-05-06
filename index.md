@@ -2,18 +2,17 @@
 layout: default
 ---
 
-<div class="sidebar">
-  <div class="sidebar-header">
-    <h1>devsenweb</h1>
-    <p>AI & Engineering Leadership</p>
-  </div>
-  
-  <nav class="sidebar-nav">
-    <h2>Navigation</h2>
+<div class="top-nav">
+  <nav>
     <ul>
-      <li><a href="#about">About</a></li>
-      <li><a href="#sections">Sections</a></li>
-      <li><a href="#connect">Connect</a></li>
+      <li><a href="whitepapers/ai-in-insurance.md">AI in Insurance</a></li>
+      <li><a href="whitepapers/risk-models.md">Risk Models</a></li>
+      <li><a href="whitepapers/claims-automation.md">Claims Automation</a></li>
+      <li><a href="leadership/team-architecture.md">Team Architecture</a></li>
+      <li><a href="leadership/agile-practices.md">Agile Practices</a></li>
+      <li><a href="leadership/innovation.md">Innovation</a></li>
+      <li><a href="diagrams/system-architecture.md">System Architecture</a></li>
+      <li><a href="diagrams/process-flows.md">Process Flows</a></li>
     </ul>
   </nav>
 </div>
@@ -28,9 +27,19 @@ layout: default
   <section id="sections">
     ## 📄 Sections
 
+    ### AI & Insurance
     - [AI in Insurance](whitepapers/ai-in-insurance.md)
-    - [Engineering Leadership](leadership/team-architecture.md)
-    - [Diagrams](diagrams/risk-analysis.png)
+    - [Risk Models](whitepapers/risk-models.md)
+    - [Claims Automation](whitepapers/claims-automation.md)
+
+    ### Engineering Leadership
+    - [Team Architecture](leadership/team-architecture.md)
+    - [Agile Practices](leadership/agile-practices.md)
+    - [Innovation](leadership/innovation.md)
+
+    ### Diagrams & Visualizations
+    - [System Architecture](diagrams/system-architecture.md)
+    - [Process Flows](diagrams/process-flows.md)
   </section>
 
   <section id="connect">
