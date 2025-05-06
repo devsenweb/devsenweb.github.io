@@ -20,13 +20,13 @@ title: DevSen - AI Solutions & Engineering Leadership
 
 <div class="main-content">
   <section id="about">
-    # 👋 Hello, I'm Senthil 
+    # Hello, I'm Senthil 👋
 
     Welcome to my portfolio. I explore AI workflows, engineering leadership, and architecture for the insurance and ticketing industry.
   </section>
 
   <section id="sections">
-    ## 📄 Sections
+    ## Sections 📄
 
     ### AI & Insurance
     - [AI in Insurance](whitepapers/ai-in-insurance)
@@ -44,7 +44,7 @@ title: DevSen - AI Solutions & Engineering Leadership
   </section>
 
   <section id="connect">
-    ## 🔗 Connect
+    ## Connect 🔗
 
     - [GitHub](https://github.com/devsenweb)
     - [LinkedIn](https://www.linkedin.com/in/senthilkumar-subbaiya/)
