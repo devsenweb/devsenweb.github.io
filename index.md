@@ -3,20 +3,22 @@ layout: default
 title: Senthil's Portfolio
 ---
 
+<div class="horizontal-nav">
+<ul>
+<li><a href="whitepapers/ai-in-insurance">AI in Insurance</a></li>
+<li><a href="whitepapers/risk-models">Risk Models</a></li>
+<li><a href="whitepapers/claims-automation">Claims Automation</a></li>
+<li><a href="leadership/team-architecture">Team Architecture</a></li>
+<li><a href="leadership/agile-practices">Agile Practices</a></li>
+<li><a href="leadership/innovation">Innovation</a></li>
+<li><a href="diagrams/system-architecture">System Architecture</a></li>
+<li><a href="diagrams/process-flows">Process Flows</a></li>
+</ul>
+</div>
+
 # Hello, I'm Senthil 👋
 
 Welcome to my portfolio. I explore AI workflows, engineering leadership, and architecture for the insurance and ticketing industry.
-
-## Navigation
-
-- [AI in Insurance](whitepapers/ai-in-insurance)
-- [Risk Models](whitepapers/risk-models)
-- [Claims Automation](whitepapers/claims-automation)
-- [Team Architecture](leadership/team-architecture)
-- [Agile Practices](leadership/agile-practices)
-- [Innovation](leadership/innovation)
-- [System Architecture](diagrams/system-architecture)
-- [Process Flows](diagrams/process-flows)
 
 ## Sections 📄
 
