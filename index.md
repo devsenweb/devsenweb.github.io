@@ -1,5 +1,3 @@
-# 👋 Hello, I'm Senthil (devsenweb)
-
 Welcome to my portfolio. I explore AI workflows, engineering leadership, and architecture for the insurance industry.
 
 ---
