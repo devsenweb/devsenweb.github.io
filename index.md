@@ -1,7 +1,12 @@
 ---
 layout: default
-title: Senthil's Portfolio
+title: DevSen - AI Solutions & Engineering Leadership
 ---
+
+<div class="banner">
+<h1>DevSen</h1>
+<p>AI Solutions & Engineering Leadership for Insurance and Ticketing Industry</p>
+</div>
 
 <div class="horizontal-nav">
 <ul>
@@ -16,12 +21,11 @@ title: Senthil's Portfolio
 </ul>
 </div>
 
-<div class="banner">
-<h1>Hello, I'm Senthil 👋</h1>
-<p>Welcome to my portfolio. I explore AI workflows, engineering leadership, and architecture for the insurance and ticketing industry.</p>
-</div>
-
 <div class="main-content">
+# Hello, I'm Senthil 👋
+
+Welcome to my portfolio. I explore AI workflows, engineering leadership, and architecture for the insurance and ticketing industry.
+
 ## Sections 📄
 
 ### AI & Insurance
