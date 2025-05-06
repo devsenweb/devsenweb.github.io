@@ -20,28 +20,24 @@ layout: default
 
 <div class="main-content">
   <section id="about">
-    <h1>👋 Hello, I'm Senthil (devsenweb)</h1>
+    # 👋 Hello, I'm Senthil (devsenweb)
 
-    <p>Welcome to my portfolio. I explore AI workflows, engineering leadership, and architecture for the insurance industry.</p>
+    Welcome to my portfolio. I explore AI workflows, engineering leadership, and architecture for the insurance industry.
   </section>
 
   <section id="sections">
-    <h2>📄 Sections</h2>
+    ## 📄 Sections
 
-    <ul>
-      <li><a href="whitepapers/ai-in-insurance.md">AI in Insurance</a></li>
-      <li><a href="leadership/team-architecture.md">Engineering Leadership</a></li>
-      <li><a href="diagrams/risk-analysis.png">Diagrams</a></li>
-    </ul>
+    - [AI in Insurance](whitepapers/ai-in-insurance.md)
+    - [Engineering Leadership](leadership/team-architecture.md)
+    - [Diagrams](diagrams/risk-analysis.png)
   </section>
 
   <section id="connect">
-    <h2>🔗 Connect</h2>
+    ## 🔗 Connect
 
-    <ul>
-      <li><a href="https://github.com/devsenweb">GitHub</a></li>
-      <li><a href="https://www.linkedin.com/in/senthilkumar-subbaiya/">LinkedIn</a></li>
-      <li><a href="https://orcid.org/YOUR-ID">ORCID</a></li>
-    </ul>
+    - [GitHub](https://github.com/devsenweb)
+    - [LinkedIn](https://www.linkedin.com/in/senthilkumar-subbaiya/)
+    - [ORCID](https://orcid.org/YOUR-ID)
   </section>
 </div> 
