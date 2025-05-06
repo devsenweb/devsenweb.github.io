@@ -35,7 +35,7 @@ layout: default
     ## 🔗 Connect
 
     - [GitHub](https://github.com/devsenweb)
-    - [LinkedIn](https://linkedin.com/in/YOUR-LINK)
+    - [LinkedIn](https://www.linkedin.com/in/senthilkumar-subbaiya/)
     - [ORCID](https://orcid.org/YOUR-ID)
   </section>
 </div> 
