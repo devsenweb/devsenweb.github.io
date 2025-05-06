@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
-title: Senthil's Portfolio
-description: AI workflows, engineering leadership, and architecture for insurance and ticketing industry
-show_downloads: false 
+title: DevSen - AI Solutions & Engineering Leadership
+description: AI Solutions & Engineering Leadership for Insurance and Ticketing Industry
+show_downloads: false
+sass:
+  style: compressed 
