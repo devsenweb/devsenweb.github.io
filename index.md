@@ -1,14 +1,15 @@
 ---
 layout: default
-title: DevSen - AI Solutions & Engineering Leadership
+title: DevSen
+description: AI Solutions & Engineering Leadership for Insurance and Ticketing Industry
 ---
 
-<div class="banner">
-<h1>DevSen</h1>
-<p>AI Solutions & Engineering Leadership for Insurance and Ticketing Industry</p>
-</div>
+<header class="page-header">
+  <h1 class="project-name">{{ page.title }}</h1>
+  <h2 class="project-tagline">{{ page.description }}</h2>
+</header>
 
-<div class="horizontal-nav">
+<nav class="horizontal-nav">
 <ul>
 <li><a href="whitepapers/ai-in-insurance">AI in Insurance</a></li>
 <li><a href="whitepapers/risk-models">Risk Models</a></li>
@@ -19,16 +20,16 @@ title: DevSen - AI Solutions & Engineering Leadership
 <li><a href="diagrams/system-architecture">System Architecture</a></li>
 <li><a href="diagrams/process-flows">Process Flows</a></li>
 </ul>
-</div>
+</nav>
 
-<div class="main-content">
+<main id="content" class="main-content" role="main">
 # Hello, I'm Senthil 👋
 
 Welcome to my portfolio. I explore AI workflows, engineering leadership, and architecture for the insurance and ticketing industry.
 
 ## Sections 📄
 
-### AI & Insurance
+### AI &amp; Insurance
 - [AI in Insurance](whitepapers/ai-in-insurance)
 - [Risk Models](whitepapers/risk-models)
 - [Claims Automation](whitepapers/claims-automation)
@@ -38,7 +39,7 @@ Welcome to my portfolio. I explore AI workflows, engineering leadership, and arc
 - [Agile Practices](leadership/agile-practices)
 - [Innovation](leadership/innovation)
 
-### Diagrams & Visualizations
+### Diagrams &amp; Visualizations
 - [System Architecture](diagrams/system-architecture)
 - [Process Flows](diagrams/process-flows)
 
@@ -46,6 +47,6 @@ Welcome to my portfolio. I explore AI workflows, engineering leadership, and arc
 - [GitHub](https://github.com/devsenweb)
 - [LinkedIn](https://www.linkedin.com/in/senthilkumar-subbaiya/)
 - [ORCID](https://orcid.org/0009-0002-2768-8303)
-</div>
 
-<!-- Last updated: 2024-05-06 --> 
+<!-- Last updated: 2024-05-06 -->
+</main> 
