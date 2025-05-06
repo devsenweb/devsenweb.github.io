@@ -1,6 +1,25 @@
 theme: jekyll-theme-cayman
 title: DevSen - AI Solutions & Engineering Leadership
 description: AI Solutions & Engineering Leadership for Insurance and Ticketing Industry
-show_downloads: false
+show_downloads: true
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Sass settings
 sass:
-  style: compressed 
+  style: compressed
+  load_paths:
+    - _sass
+    - assets/css
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore 
