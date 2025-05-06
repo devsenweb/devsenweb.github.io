@@ -1,11 +1,11 @@
 ---
 layout: default
-title: devsenweb - AI & Engineering Leadership
+title: DevSen - AI Solutions & Engineering Leadership
 ---
 
-# 👋 Hello, I'm Senthil (devsenweb)
+# 👋 Hello, I'm Senthil 
 
-Welcome to my portfolio. I explore AI workflows, engineering leadership, and architecture for the insurance industry.
+Welcome to my portfolio. I explore AI workflows, engineering leadership, and architecture for the insurance and ticketing industry.
 
 ## 📄 Sections
 
@@ -27,4 +27,6 @@ Welcome to my portfolio. I explore AI workflows, engineering leadership, and arc
 
 - [GitHub](https://github.com/devsenweb)
 - [LinkedIn](https://www.linkedin.com/in/senthilkumar-subbaiya/)
-- [ORCID](https://orcid.org/YOUR-ID) 
+- [ORCID](https://orcid.org/YOUR-ID)
+
+<!-- Last updated: 2024-05-06 --> 
