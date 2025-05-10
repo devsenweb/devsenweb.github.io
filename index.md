@@ -3,7 +3,7 @@ layout: default
 title: DevSen - AI Solutions & Engineering Leadership
 ---
 
-# 👋 Hello, I'm Senthil Subbaiya
+# 👋 Hello, I'm Senthil Subbaiyas
 
 Welcome to my portfolio. I explore AI workflows, engineering leadership, and architecture for the insurance and ticketing industry.
 
